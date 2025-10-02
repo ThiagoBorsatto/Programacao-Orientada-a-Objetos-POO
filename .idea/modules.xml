@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/7ExerciciosDaAula/7ExerciciosDaAula.iml" filepath="$PROJECT_DIR$/7ExerciciosDaAula/7ExerciciosDaAula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacao-Orientada-a-Objetos-POO.iml" filepath="$PROJECT_DIR$/.idea/Programacao-Orientada-a-Objetos-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisao Logica de Programacao em Java/Revisao Logica de Programacao em Java.iml" filepath="$PROJECT_DIR$/Revisao Logica de Programacao em Java/Revisao Logica de Programacao em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula1709/aula1709.iml" filepath="$PROJECT_DIR$/aula1709/aula1709.iml" />
+    </modules>
+  </component>
+</project>
